@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "474404410133",
+    "project_id": "roller-ff21d",
+    "storage_bucket": "roller-ff21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474404410133:android:6a31d84de9b3f8da744f1c",
+        "android_client_info": {
+          "package_name": "com.company.roller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474404410133-cpnfet4iuacsl6m1cnn4vmgtrmmlrsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhsMtX9CCZpNBJTxSJfTYcVNEdL2IV_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474404410133-cpnfet4iuacsl6m1cnn4vmgtrmmlrsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474404410133:android:e79cb307d4381e85744f1c",
+        "android_client_info": {
+          "package_name": "com.example.roller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474404410133-cpnfet4iuacsl6m1cnn4vmgtrmmlrsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhsMtX9CCZpNBJTxSJfTYcVNEdL2IV_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474404410133-cpnfet4iuacsl6m1cnn4vmgtrmmlrsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
